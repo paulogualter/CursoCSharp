@@ -10,6 +10,7 @@ namespace Aula01
         {
         static void Main(string[] args)
             {
+
             }
         }
     }
